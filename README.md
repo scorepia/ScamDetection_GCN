@@ -1,5 +1,5 @@
 # ScamDetection_GCN
-Final year project Independent Study
+Research Project
 
 ## Objective
 To find phishing scam account on Ethereum using Graph Convolutional Network.
